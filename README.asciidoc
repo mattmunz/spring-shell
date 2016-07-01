@@ -1,6 +1,11 @@
 :currentReleaseVersion: 1.1.0.RELEASE
 :currentSnapshotVersion: 1.2.0.BUILD-SNAPSHOT
 
+# Overview
+
+_This is an experimental fork of Spring Shell, to incorporate ideas from the unpublished MShell project. This is a work in progress, contact Matt Munz if you have any questions._
+
+
 Spring Shell is an shell skeleton that can be easily extended with commands using a Spring based programming model. Spring Shell eases the creation of interactive console applications, featuring ANSI coloring, TAB completion, history browsing, _etc._
 
 To witness possibilities of Spring Shell, have a look at the http://docs.spring.io/spring-xd/docs/current-SNAPSHOT/reference/html/#interactive-shell[Spring XD Shell].
